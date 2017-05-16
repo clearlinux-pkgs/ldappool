@@ -4,7 +4,7 @@
 #
 Name     : ldappool
 Version  : 1.0
-Release  : 13
+Release  : 14
 URL      : https://pypi.python.org/packages/source/l/ldappool/ldappool-1.0.tar.gz
 Source0  : https://pypi.python.org/packages/source/l/ldappool/ldappool-1.0.tar.gz
 Summary  : A connection pool for python-ldap
